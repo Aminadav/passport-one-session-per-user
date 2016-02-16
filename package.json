@@ -1,11 +1,1 @@
-{
-  "name": "passport-one-session-per-user",
-  "version": "1.0.0",
-  "description": "This passport strategy force every user to be connected only from one session",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-}
+{"name":"passport-one-session-per-user","version":"1.0.2","description":"This passport strategy force every user to be connected only from one session","main":"lib/index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"","license":"ISC"}

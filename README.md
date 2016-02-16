@@ -11,6 +11,8 @@ How to install
 How to use
 ---
 
+	var passportOneSessionPerUser=require('passport-one-session-per-user')
+	passport.use(new passportOneSessionPerUser())
 	app.use(passport.authenticate('passport-one-session-per-user'))
 
 That's all.
